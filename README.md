@@ -1,2 +1,2 @@
 # hello-world
-Hello my name is Bianca Gunnz. 
+Hello my name is Bianca. 
